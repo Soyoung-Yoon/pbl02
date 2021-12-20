@@ -1,0 +1,16 @@
+com.samsung.health.user_profile,6188005,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2020-10-18 14:07:26.487,2019-06-02 18:55:04.248,,step_calibration,00000000-0000-0000-0000-000000000017.step_calibration.json,,AumAWJiKT9,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000017,
+,,2019-06-02 19:15:39.394,2019-06-02 19:15:39.399,,activity_type,,180004,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000b,
+33615020076,,2021-09-21 08:01:55.544,2021-09-21 08:23:40.592,,phone_number,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000021,
+,170.0,2019-06-02 19:15:32.111,2019-06-02 19:15:32.115,,height,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000008,
+,,2021-09-14 10:14:56.082,2019-06-29 14:45:30.500,,food_auto_fill,,0,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001b,
+,64.1,2020-10-20 14:55:45.916,2019-06-02 19:15:32.126,,weight,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000006,
+,,2021-09-21 07:55:10.156,2019-06-02 19:14:42.309,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
+FRA,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,country,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+76093593,,2021-09-21 08:01:57.432,2021-09-21 08:23:41.872,,social_id,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000015,
+M,,2019-06-02 19:15:32.117,2019-06-02 19:15:32.137,,gender,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000005,
+Djamchid,,2020-02-25 09:39:28.167,2020-02-25 09:39:28.174,,name,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000004,
+19610826,,2021-09-21 08:23:44.951,2019-06-02 19:15:32.145,,birth_date,,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+,,2020-08-10 01:44:37.445,2019-09-05 17:53:45.170,,intention_survey,00000000-0000-0000-0000-00000000001c.intention_survey.json,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001c,
+,,2020-06-18 20:32:51.032,2020-06-07 17:47:37.491,,iconx_step_calibration,00000000-0000-0000-0000-00000000001e.iconx_step_calibration.json,,dNgkxZR9yp,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001e,

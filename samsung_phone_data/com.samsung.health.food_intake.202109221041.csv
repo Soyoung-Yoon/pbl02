@@ -1,0 +1,8 @@
+com.samsung.health.food_intake,6188005,4
+start_time,amount,custom,update_time,create_time,meal_type,name,unit,calorie,time_offset,deviceuuid,comment,pkg_name,datauuid,food_info_id
+2019-06-29 06:00:00.000,1.0,,2019-06-29 14:48:46.080,2019-06-29 14:48:46.080,100001,Plain Yogurt (Whole Milk),120001,149.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,8422576e-69e3-4204-b3b8-502aec54a299,24195d6d-1201-4565-9373-52035273dab9,
+2019-06-29 06:00:00.000,1.0,,2019-06-29 14:48:46.080,2019-06-29 14:48:46.080,100001,Sponge Cake,120001,187.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,eb188dca-8cdd-4cb0-b84f-dd341be5529d,1e02f2b7-6037-474a-90d8-54d7727de230,
+2019-06-29 10:30:00.166,1.0,,2019-06-29 14:53:36.081,2019-06-29 14:52:08.800,100002,Tabouli Mediterranean Salad(Casablanca Gardens),120001,100.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,b02aa6f2-2e5f-41ef-9dff-89f08ae27cff,07e2bf3c-a2de-4a93-a565-5315367dac89,
+2019-06-29 10:30:00.166,1.0,,2019-06-29 14:53:36.088,2019-06-29 14:52:08.800,100002,Ratatouille,120001,154.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,cdbd5df5-1c7f-402d-a206-c2f6f15bb89c,b5b22c8d-2bb9-4422-9e5e-cc8081d03ce1,
+2019-06-29 10:30:00.166,1.0,,2019-06-29 14:53:36.049,2019-06-29 14:53:36.049,100002,Sweet Cherries,120001,74.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,5edd4ca0-6caf-44c5-94f8-53aa8c9d29f9,f2ad985d-6a2d-46ea-b1a0-78f5dfb3a937,
+2019-06-29 10:30:00.166,0.5,,2019-06-29 14:53:36.049,2019-06-29 14:53:36.049,100002,Berries,120001,24.0,UTC+0300,dNgkxZR9yp,,com.sec.android.app.shealth,dca19a2f-27f5-4858-8c0e-ceb8a1377396,6e7eae72-d481-4e41-a3b9-1800763223e6,

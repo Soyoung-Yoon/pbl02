@@ -1,0 +1,10 @@
+com.samsung.shealth.preferences,6188005,2
+text_value,service_id,float_value,update_time,create_time,long_value,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2019-06-02 19:08:42.961,2019-06-02 19:08:43.244,,,,0,dNgkxZR9yp,com.sec.android.app.shealth,,settings.marketing_agreement,
+,,,2021-09-21 07:55:52.098,2019-06-02 19:08:43.242,,,,1,dNgkxZR9yp,com.sec.android.app.shealth,,oobe.sensitive_data_agreement,
+,,,2019-06-02 19:14:19.893,2019-06-02 19:14:21.779,,,,1,dNgkxZR9yp,com.sec.android.app.shealth,,settings.location_agreement,
+,,,2021-09-22 08:40:04.829,2019-06-02 19:08:43.246,,,,1,dNgkxZR9yp,com.sec.android.app.shealth,,settings.personalization_agreement,
+,,,2021-09-22 08:40:04.841,2021-09-21 07:55:10.389,,,,1,dNgkxZR9yp,com.sec.android.app.shealth,,step.detectworkout_switch,
+,,0.0,2019-10-29 15:42:19.837,2019-06-02 18:55:04.291,0,,stress.breath_settings.blob_value.json,0,AumAWJiKT9,com.sec.android.app.shealth,0.0,stress.breath_settings,
+,tracker.exercise,,2021-09-21 07:55:10.107,2021-09-21 07:55:10.107,,,34-workout_list.blob_value.json,,dNgkxZR9yp,com.sec.android.app.shealth,,34-workout_list,
+,tracker.exercise,,2021-09-21 07:55:09.907,2021-09-21 07:55:09.907,,,34-favorite_list.blob_value.json,,dNgkxZR9yp,com.sec.android.app.shealth,,34-favorite_list,

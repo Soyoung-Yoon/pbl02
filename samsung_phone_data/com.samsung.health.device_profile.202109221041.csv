@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6188005,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Google,,,,,,360001,2019-06-02 19:08:43.186,2019-06-02 19:08:43.186,My Device,Pixel 3 XL,,dNgkxZR9yp,com.sec.android.app.shealth,Pixel 3 XL,e293a1dd-fd10-aea4-e4ed-5ac65c24a052,
+Samsung Electronics,1,18,10045,1,973c737c-00fb-2348-f532-04210a2aa4e9.capability.json,360003,2021-09-21 07:52:56.012,2019-06-02 19:08:55.070,Galaxy Watch,,,AumAWJiKT9,com.sec.android.app.shealth,Pixel 3 XL,973c737c-00fb-2348-f532-04210a2aa4e9,
+Combined,,,,,,0,2019-06-02 19:14:09.542,2019-06-02 19:14:09.542,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Pixel 3 XL,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2019-06-02 19:14:10.160,2019-06-02 19:14:10.160,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Pixel 3 XL,471ca32b-a665-1e9e-7c27-7ac69485dc05,

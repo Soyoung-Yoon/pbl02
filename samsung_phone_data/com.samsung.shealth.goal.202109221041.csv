@@ -1,0 +1,6 @@
+com.samsung.shealth.goal,6188005,2
+start_time,float_value,update_time,create_time,value,time_offset,deviceuuid,pkg_name,datauuid,goal_type
+2020-02-25 06:28:44.208,63.0,2020-02-25 06:28:44.209,2020-02-25 06:28:44.209,63,UTC+0200,dNgkxZR9yp,com.sec.android.app.shealth,02d27b9b-519a-4886-a5bb-1519ed47d520,40004,
+2020-05-02 13:14:39.617,63.0,2020-05-02 13:14:39.619,2020-05-02 13:14:39.619,63,UTC+0300,dNgkxZR9yp,com.sec.android.app.shealth,289cd083-2b2b-4005-8bd6-fc2c357124d7,40004,
+2020-06-12 20:27:35.396,63.0,2020-06-12 20:27:36.279,2020-06-12 20:27:36.279,63,UTC+0300,dNgkxZR9yp,com.sec.android.app.shealth,44f80051-374e-4ddd-80f3-b16d070052f0,40004,
+2020-10-20 14:54:14.302,63.0,2020-10-20 14:54:56.445,2020-10-20 14:54:56.445,63,UTC+0300,dNgkxZR9yp,com.sec.android.app.shealth,18f761b2-39b9-471b-80bd-c28ef749d284,40004,

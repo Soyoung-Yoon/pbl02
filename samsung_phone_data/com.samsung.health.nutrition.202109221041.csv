@@ -1,0 +1,4 @@
+com.samsung.health.nutrition,6188005,3
+potassium,vitamin_a,vitamin_c,vitamin_d,cholesterol,start_time,custom,sodium,dietary_fiber,total_fat,update_time,create_time,meal_type,monosaturated_fat,protein,polysaturated_fat,iron,sugar,title,added_sugar,calcium,calorie,time_offset,deviceuuid,saturated_fat,trans_fat,pkg_name,carbohydrate,datauuid
+469.0,8.0,2.0,,139.0,2019-06-29 06:00:00.119,,257.0,0.0,10.6,2019-06-29 14:48:46.138,2019-06-29 14:48:46.138,100001,3.0,13.1,0.6,7.0,11.4,Breakfast,,33.0,336.0,UTC+0300,dNgkxZR9yp,5.9,0.0,com.sec.android.app.shealth,47.7,c61c86eb-114b-4b35-af09-f23473fdc946,
+762.0,52.0,120.0,,0.0,2019-06-29 10:30:00.094,,700.5,10.2,12.9,2019-06-29 14:53:36.151,2019-06-29 14:52:08.834,100002,8.6,7.2,1.4,13.5,24.7,Lunch,,9.0,352.0,UTC+0300,dNgkxZR9yp,1.6,0.0,com.sec.android.app.shealth,56.3,7305e507-9e22-4f02-adf2-b3f069f590e5,
